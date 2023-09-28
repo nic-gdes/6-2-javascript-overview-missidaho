@@ -1,6 +1,8 @@
 // 1.1 Assignment: Where do you put JavaScript?
 
 // 1.2 Assignment: Variables
+var dudesname="Madeleine";
+console.log (dudesname);
 
 // 1.3 Assignment: Variable Declaration & Initialization
 
